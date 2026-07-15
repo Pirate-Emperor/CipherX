@@ -7,7 +7,7 @@ Description: README file for CipherX project.
 -->
 
 # CipherX
-![CipherX](docs/cipherx.png)
+![CipherX](favicon.png)
 
 ## Project Overview
 
